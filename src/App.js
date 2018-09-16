@@ -44,7 +44,7 @@ class App extends Component {
       })
     }
 
-    for(let j = 0; j <= number; j++){
+    for(let j = 0; j < number; j++){
       arrayOfSpam.push(text)
     }
 
