@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a{
+  margin:5px;
+}
+
+.alert-danger {
+  background-color: tomato;
+  color:white;
+  font-weight: bold;
+  font-size:150%
+}
+
+.alert-success {
+  background-color: rgb(98, 155, 12);
+  color:white;
+  font-weight: bold;
+  font-size:150%
+}
